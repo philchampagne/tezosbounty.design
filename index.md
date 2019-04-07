@@ -50,7 +50,7 @@ Legend:
 Upon successful testing and code review, the developer will be receiving the bounty held in account 
 tz1WvPcd8Y5gUdN4K5JTpvUgjnXc3crZWtx2
 
-* (minus 10% to send to the first 2 wallet maker who adopts the change)
+(minus 10% to send to the first 2 wallet maker who adopts the change)
 
 
 ### Current submissions:
