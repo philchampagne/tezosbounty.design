@@ -30,10 +30,10 @@ Once the delegate has been changed to a new delegate, the prior delegate loses t
 
 ### Testing to be done
 Legend:  
-tz1BakerA  - first delegate
-tz1BakerB  - second delegate
-KT1delegator - delegator address
-tz1manager - manager who owns and created the KT1delegator address
+* tz1BakerA  - first delegate
+* tz1BakerB  - second delegate
+* KT1delegator - delegator address
+* tz1manager - manager who owns and created the KT1delegator address
 
 1. Validate only the manager (tz1manager) can set a delegation to a new KT address originated that has the manager itself as the delegate. (Blank slate origination).
    * Try changing the delegation using any other tz delegate address: should fail
