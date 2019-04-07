@@ -8,6 +8,7 @@ This website has been created to incentivize developers in creating new Tezos sm
 
 ### XTZ address for donation: 
 tz1WvPcd8Y5gUdN4K5JTpvUgjnXc3crZWtx2
+
 [View on TzScan](https://tzscan.io/tz1WvPcd8Y5gUdN4K5JTpvUgjnXc3crZWtx2)
 
 ### Announcement:
