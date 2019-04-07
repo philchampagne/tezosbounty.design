@@ -56,6 +56,8 @@ tz1WvPcd8Y5gUdN4K5JTpvUgjnXc3crZWtx2
 ### Current submissions:
 * We have received information via email for one submission. Still accepting donation.
 
+## Contact us
+Do you have idea or a contribution, contact Phil at HayekLab.com 
 
 ## Web Page and Project Operated and Maintained by
 https://HayekLab.com
