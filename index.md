@@ -1,5 +1,7 @@
 # Tezos Bounty . Design
 
+Project on hold. 
+
 This website has been created to incentivize developers in creating new Tezos smart contract or new features to be incorporated via Tezos Governance built-in protocol. This will allow for XTZ owners, promoters as well as bakers to fund an account with XTZ that will serve as a bounty or donation to the developer of the project.
 
 # Current Project:
